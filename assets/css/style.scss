@@ -14,3 +14,14 @@ ul li {
 h1, h2, h3, h4, h5, h6 {
   color: #82CAFF;
 }
+
+header h1 {
+  color: #82CAFF;
+}
+
+/* Tighten up the space at top and fix color */
+header {
+  border-bottom: 1px dashed #82CAFF; //header;
+  padding: 0;
+  margin: 0;
+}

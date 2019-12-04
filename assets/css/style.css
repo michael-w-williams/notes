@@ -1,5 +1,6 @@
 ---
 ---
 /* Customize Sass before import */
+$conifer: #82CAFF; /* Change to blue from puke green */
 @import "{{ site.theme }}";
 /* Customize CSS Below here */

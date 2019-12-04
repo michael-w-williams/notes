@@ -4,3 +4,9 @@
 $conifer: #82CAFF; /* Change to blue from puke green */
 @import "{{ site.theme }}";
 /* Customize CSS Below here */
+
+/* Make bullet lists normal */
+ul li {
+  list-style-type: disc;
+}
+

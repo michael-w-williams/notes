@@ -1,8 +1,9 @@
 ---
 ---
-/* Customize Sass before import */
+
 @import "{{ site.theme }}";
-/* Customize CSS Below here */
+
+/* -- Make CSS Changes below -- */
 
 /* Make bullet lists normal */
 ul li {

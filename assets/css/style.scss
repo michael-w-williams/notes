@@ -26,3 +26,8 @@ header {
   padding: 0;
   margin: 0 0 10px 0;
 }
+
+/* Drop Underline from Links except for hover */
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: underline; }

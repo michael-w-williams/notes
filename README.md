@@ -1,4 +1,4 @@
-## MikeW Notes Pages
+## MikeW Notes Home Page
 
-This is a site for publishing public information related to my work. Content is written in Markdown and rendered using [Jekyll](https://jekyllrb.com/).
-
+### OCI
+* [MuShop Summary - Sample OCI Microservices App](oci/mushop/)
